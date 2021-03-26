@@ -10,5 +10,9 @@
 <body>
     <h1> Login</h1>
     <p>Log in with username and password</p>
+    <form>
+    <input></input>
+    <button></button>
+    </form>
 </body>
 </html>
