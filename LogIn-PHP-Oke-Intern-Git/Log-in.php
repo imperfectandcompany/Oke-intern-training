@@ -7,13 +7,21 @@
     <title>Login - Postogon</title>
     <link rel="" href=""></link>
 </head>
-<body>
-    <h1> Login</h1>
-    <p>Log in with username and password</p>
-    <!--Lets server choose what type of information will be processed through-->
-    <form>
-    <input></input>
-    <button></button>
-    </form>
+<body class="bg-red-500 pt-20" >
+    <div class="container mx-auto">
+        <h1 class="bg-green-500 flex justify-center"> Login</h1>
+        <p class="bg-blue-500 flex justify-center">Log in with username and password</p>
+
+        <!--Lets server choose what type of information will be processed through-->
+        <div class="bg-yellow-500 flex justify-center">
+            <div>
+                <form>
+                <input></input>
+                <input></input>
+                <button></button>
+                </form>
+            <div>
+        </div>
+    </div>
 </body>
 </html>
